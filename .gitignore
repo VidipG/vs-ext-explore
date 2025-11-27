@@ -1,1 +1,19 @@
+# JS files
 node_modules/
+
+# macOS
+# General system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# volume and indexing
+.Spotlight-V100
+.Trashes
+__MACOSX/
+.fseventsd/
+.DocumentRevisions-V100
